@@ -1,12 +1,12 @@
 # Hello, I'm Alexey Kosov 👋
 
-I'm a passionate iOS developer currently working at Surf (Banking app), where I build fintech applications in Swift. With over 2 years of experience, I've worked on chat apps and personal projects, applying architectures like MVP/MVVM + C and using technologies like Combine, GCD, and Core Data.
+I'm a passionate iOS developer currently working at Surf (Banking app), where I build fintech applications in Swift. With over 3 years of experience, I've worked on chat apps and personal projects, applying architectures like MVP/MVVM + C and using technologies like Combine, GCD, and Core Data.
 
 ## 🔧 Skills
 
-- **Languages/Frameworks:** Swift, UIKit, SwiftUI (learning), Combine
-- **Architectures:** MVP, MVVM, Design Patterns
-- **Technologies:** GCD, Core Data, Push Notifications, Fastlane, GitHub Actions
+- **Languages/Frameworks:** Swift, UIKit, SwiftUI, Combine
+- **Architectures:** MVP, MVVM, Coordinator
+- **Technologies:** GCD, Core Data, Combine, Push Notifications, Fastlane, GitHub Actions
 - **Development Practices:** Task decomposition, clean code, code review, CI/CD
 
 ## 🚏 Experience
