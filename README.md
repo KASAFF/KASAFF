@@ -11,7 +11,7 @@ I'm a passionate iOS developer currently working at Surf (Banking app), where I 
 
 ## 🚏 Experience
 
-- **Surf (Banking app under NDA)** – *iOS Developer* (Sep 2023 – Present)  
+- **Surf (Banking app)** – *iOS Developer* (Sep 2023 – Present)  
   Building a fintech mobile app: implemented complex UI screens, integrated UI kit framework, planned tasks, collaborated cross-team, ensured test-driven development and CI/CD.
 
 - **Tinkoff Chat App** – *iOS Developer* (Feb 2023 – May 2023)  
