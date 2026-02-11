@@ -1,6 +1,6 @@
 # Hello, I'm Alexey Kosov 👋
 
-I'm a passionate iOS developer currently working at Surf (Zenit Bank), where I build fintech applications in Swift. With over 2 years of experience, I've worked on chat apps and personal projects, applying architectures like MVC/MVP/MVVM and using technologies like Combine, GCD, and Core Data.
+I'm a passionate iOS developer currently working at Surf (Banking app), where I build fintech applications in Swift. With over 2 years of experience, I've worked on chat apps and personal projects, applying architectures like MVP/MVVM + C and using technologies like Combine, GCD, and Core Data.
 
 ## 🔧 Skills
 
